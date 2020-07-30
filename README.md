@@ -4,11 +4,11 @@ Set slack status across multiple slack instances.
 ## Usage 
 Create `$HOME/.slack_api/keys` and add Slack api tokens to this.
 
-Active
+Active  
 `slack-status active`
 
-Away
+Away  
 `slack-status away`
 
-Do not disturb
+Do not disturb  
 `slack-status dnd`
